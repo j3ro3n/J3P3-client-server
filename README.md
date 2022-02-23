@@ -1,4 +1,4 @@
-#Programmeeropdracht Netwerken, Security en Virtualisatie
+# Programmeeropdracht Netwerken, Security en Virtualisatie
 
 In deze opdracht wordt een client-server-applicatie ontworpen en gebouwd om bestanden tussen enkele werkplekken via een centrale server te synchroniseren.
 In de Wiki bij dit project worden alle facetten van de opdracht omschreven.  
