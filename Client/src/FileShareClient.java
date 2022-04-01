@@ -14,7 +14,7 @@ public class FileShareClient {
     public static void main(String[] args) throws IOException {
         while (true) {
             try {
-                sock = new Socket("127.0.0.1", 40000);
+                sock = new Socket("127.0.0.1", 40002);
                 stdin = new BufferedReader(new InputStreamReader(System.in));
             } catch (Exception e) {
                 System.err.println("Cannot connect to the server, try again later.");
