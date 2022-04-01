@@ -5,8 +5,8 @@ In de Wiki bij dit project worden alle facetten van de opdracht omschreven.
 Documentatie Wiki: https://github.com/j3ro3n/J3P3-client-server/wiki
 
 Het project is gesplits in 2 delen, serverside en clientside.  
-Code SushiShareServer project: https://github.com/j3ro3n/ShushiShareServer  
-Code SushiShareClient project: https://github.com/j3ro3n/ShushiShareClient  
+Code SushiShareServer project: https://github.com/j3ro3n/SushiShareServer  
+Code SushiShareClient project: https://github.com/j3ro3n/SushiShareClient  
 
 
 > In opdracht van Avans Hogeschool te Breda.
