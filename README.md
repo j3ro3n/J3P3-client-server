@@ -4,9 +4,9 @@ In deze opdracht wordt een client-server-applicatie ontworpen en gebouwd om best
 In de Wiki bij dit project worden alle facetten van de opdracht omschreven.  
 Documentatie Wiki: https://github.com/j3ro3n/J3P3-client-server/wiki
 
-Het project is gesplits in 2 delen, serverside en clientside.
-Code SushiShareServer project: https://github.com/j3ro3n/ShushiShareServer
-Code SushiShareClient project: https://github.com/j3ro3n/ShushiShareClient
+Het project is gesplits in 2 delen, serverside en clientside.  
+Code SushiShareServer project: https://github.com/j3ro3n/ShushiShareServer  
+Code SushiShareClient project: https://github.com/j3ro3n/ShushiShareClient  
 
 
 > In opdracht van Avans Hogeschool te Breda.
